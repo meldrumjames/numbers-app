@@ -6,6 +6,7 @@ import {
   Image,
   Dimensions,
   ScrollView,
+  SafeAreaView,
 } from "react-native";
 import { Colors } from "react-native/Libraries/NewAppScreen";
 import BodyText from "../components/BodyText";
